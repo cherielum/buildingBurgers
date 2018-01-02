@@ -22,7 +22,7 @@ class BurgerBuilder extends Component {
             <Aux>
                
                 <Burger  ingredients = {this.state.ingredients}/>
-                <div>Build Controls </div>
+                <div> </div>
                 
             </Aux>
         ); 

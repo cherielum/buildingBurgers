@@ -6,9 +6,10 @@ class App extends Component {
   render() {
     return (
       <div>
-          <Layout>
+         <h1> My first Burger</h1>
+         <p> Made with Love and React </p>
             <BurgerBuilder />
-          </Layout>
+          
       </div>
     );
   }
